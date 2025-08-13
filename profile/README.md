@@ -1,6 +1,6 @@
 # Vaultaire
 
-![Vaultaire Logo](/profile/images/vaultaire_logo.svg)
+![Vaultaire Logo](/images/vaultaire_logo.svg)
 
 > **Un annuaire moderne et sécurisé – Une alternative sérieuse à Active Directory**
 
